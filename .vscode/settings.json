@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "ostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
