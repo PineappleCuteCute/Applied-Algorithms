@@ -22,6 +22,7 @@ int is_valid_phone_number(const char *number) {
 }
 
 int main() {
+    
     struct Call calls[MAX_CALLS];
     int num_calls = 0;
 
