@@ -1,0 +1,8 @@
+-Bài toán người du lịch
+-Bài toán cái túi
+-Bài toán định tuyến xe(VRP)
+-Bài toán lập lịch(Scheduling)
+-Bài toán xếp thời khoá biểu(Timetabling)
+-Bài toán đóng thùng(Bin Packing)
+-Bài toán phân bổ tài nguyên(Resource allocations)
+-...
